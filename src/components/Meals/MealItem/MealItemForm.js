@@ -6,13 +6,13 @@
 import classes from "./MealItemForm.module.css";
 import Input from "../../UI/Input";
 
-const MealItemForm = () => {
+const MealItemForm = (props) => {
   return (
     <form className={classes.form}>
       <Input
         lavel="Amount"
         input={{
-          id: "amount",
+          id: "amount" + props.id,
           type: "text",
           min: "1",
           max: "5",
@@ -20,7 +20,7 @@ const MealItemForm = () => {
           defaultValue: "1",
         }}
       />
-      <button>+ Add</button>
+      <button>+</button>
     </form>
   );
 };
