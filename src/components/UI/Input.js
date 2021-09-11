@@ -1,9 +1,3 @@
-/*
- *
- *
- *
- * */
-
 import classes from "./Input.module.css";
 import React from "react";
 

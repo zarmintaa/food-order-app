@@ -1,9 +1,3 @@
-/*
- *
- *
- *
- * */
-
 import CartIcon from "../Cart/CartIcon";
 import classes from "./HeaderCartButton.module.css";
 import { useContext, useEffect, useState } from "react";

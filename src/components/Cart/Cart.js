@@ -1,8 +1,3 @@
-/*
- *
- *
- * */
-
 import classes from "./Cart.module.css";
 import Modal from "../UI/Modal";
 import { useContext } from "react";
