@@ -4,5 +4,5 @@ This project created with React, you can [download](https://github.com/zarmintaa
 
 To run this app, run `npm run start` on terminal from your directory project
 
-<img src="C:\Users\akhma\Desktop\repository\food-order-app\src\assets\food app 1.jpg"/>
-<img src="C:\Users\akhma\Desktop\repository\food-order-app\src\assets\food2.jpg"/>
+<img src="C:\Users\akhma\Desktop\repository\food-order-app\src\assets\food app 1.jpg" width="1000"/>
+<img src="C:\Users\akhma\Desktop\repository\food-order-app\src\assets\food2.jpg" width="1000"/>
